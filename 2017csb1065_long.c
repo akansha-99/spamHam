@@ -3,7 +3,7 @@
 #include<string.h>
 #include<ctype.h>
 //hey!
-//hlo
+//hlo hi
 
 int ReturnDistance(char* cArr1, char* cArr2)
 {
